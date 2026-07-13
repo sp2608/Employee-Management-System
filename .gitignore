@@ -1,0 +1,33 @@
+###################
+# Java
+###################
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+
+###################
+# IntelliJ
+###################
+.idea/
+*.iml
+
+###################
+# VS Code
+###################
+.vscode/
+
+###################
+# React
+###################
+frontend/node_modules/
+frontend/dist/
+
+###################
+# Logs
+###################
+*.log
+
+###################
+# OS
+###################
+.DS_Store
+Thumbs.db
